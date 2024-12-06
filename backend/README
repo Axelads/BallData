@@ -1,0 +1,6 @@
+express : Pour créer un serveur.
+axios : Pour appeler l'API.
+cheerio : Pour scrapper les données HTML.
+puppeteer : Pour des scrappings complexes avec un navigateur.
+cors : Pour permettre les appels depuis ton frontend.
+dotenv : Pour gérer tes clés API en toute sécurité.
